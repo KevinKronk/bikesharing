@@ -4,6 +4,8 @@
 
 ## Overview of the analysis - Purpose
 
+We would like to set up a bike-sharing business in Des Moines, Iowa. First, we need to convince investors why we believe this is a good business proposal. To do this we will analyze New York City bikesharing data to see what trends and patterns exist, and whether or not they bode well for our plan. After creating eight different worksheet visualizations, we'll combine them together in our final Tableau story. 
+
 ## Results
 
 ![Story image 1](Images/NYC_Story_1.png)
