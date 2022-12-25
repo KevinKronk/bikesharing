@@ -1,6 +1,6 @@
 # Bike Sharing with Tableau
 
-[link to dashboard](https://public.tableau.com/views/NYCCitibike08-2019/NYCCitibikeStory?:language=en-US&:display_count=n&:origin=viz_share_link "link to dashboard")
+[link to dashboard](https://public.tableau.com/views/NYCCitibike08-2019/NYCCitibikeStory?:language=en-US&:display_count=n&:origin=viz_share_link "NYC Citibike Dashboard")
 
 ## Overview of the analysis - Purpose
 
